@@ -1,10 +1,10 @@
-# Faithmart
+# FaithMart
 
-Faithmart is a robust e-commerce web application built with Next.js, Tailwind CSS, Prisma, Supabase, Stripe, and Google Authentication. Shop securely, manage your inventory efficiently, and provide a seamless shopping experience.
+FaithMart is a robust e-commerce web application built with Next.js, Tailwind CSS, Prisma, Supabase, Stripe, and Google Authentication. Shop securely, manage your inventory efficiently, and provide a seamless shopping experience.
 
 ## About
 
-Faithmart was born as a college project and has since evolved with various contributions and enhancements. Inspired by an online tutorial, it began as a simple concept and grew into a versatile e-commerce platform. The project has been enriched by incorporating different technologies, making it a collaborative effort that you're welcome to join.
+FaithMart was born as a college project and has since evolved with various contributions and enhancements. Inspired by an online [tutorial](https://www.youtube.com/watch?v=LtPYuFhYf1w), it began as a simple concept and grew into a versatile e-commerce platform. The project has been enriched by incorporating different technologies, making it a collaborative effort that you're welcome to join.
 
 ## Key Features
 
@@ -17,8 +17,33 @@ Faithmart was born as a college project and has since evolved with various contr
 
 ## Getting Started
 
-To run this project locally, follow the installation instructions in the [documentation](link-to-documentation) and start building your own e-commerce application.
+Follow these steps to set up and run FaithMart on your local machine:
 
+### Prerequisites
+
+Before you begin, ensure you have the following prerequisites installed on your system:
+
+- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [npm](https://www.npmjs.com/) (Usually included with Node.js installation)
+
+
+## Installing Dependencies
+
+To install the required Node.js packages, run the following command in your terminal:
+
+```bash
+npm install
+```
+## Running Locally
+
+After completing the installation, start the Faithmart application locally with the following command:
+
+```bash
+npm run dev
+```
+This command will launch the development server, enabling you to access the application in your web browser at http://localhost:3000.
+
+That's it! You're now ready to explore and work with FaithMart on your local machine.
 
 ## Acknowledgments
 
