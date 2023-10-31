@@ -26,6 +26,10 @@ Before you begin, ensure you have the following prerequisites installed on your 
 - [Node.js](https://nodejs.org/) (LTS version recommended)
 - [npm](https://www.npmjs.com/) (Usually included with Node.js installation)
 
+### Setting Up Environment
+
+To set up the environment for FaithMart, please follow the instructions provided in the tutorial video I mentioned or feel free to direct message me for assistance.
+
 
 ## Installing Dependencies
 
