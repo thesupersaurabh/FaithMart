@@ -6,7 +6,7 @@ FaithMart is a robust e-commerce web application built with Next.js, Tailwind CS
 
 ## About
 
-FaithMart originated as a college project and has since matured through numerous contributions and enhancements. It was initially inspired by an online [tutorial](https://www.youtube.com/watch?v=LtPYuFhYf1w), starting as a basic concept and developing into a versatile e-commerce platform. The project has thrived by embracing various technologies, fostering a collaborative environment that welcomes your participation.
+FaithMart began as a college project and has since evolved through various contributions and enhancements. It took its initial inspiration from an online [tutorial](https://www.youtube.com/watch?v=LtPYuFhYf1w), starting as a simple concept and growing into a project. The project has been enriched by incorporating different technologies and remains a collaborative effort. If you're interested in collaborating or simply want to see the project code, you're welcome to do so.
 
 
 ## Key Features
