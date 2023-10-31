@@ -31,7 +31,7 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
 ### Setting Up Environment
 
-To set up the environment for FaithMart, please follow the instructions provided in the tutorial video I mentioned or feel free to direct message me for assistance.
+To set up the environment for FaithMart, please follow the instructions provided in the tutorial video I mentioned or feel free to [direct message](https://www.linkedin.com/in/thesupersaurabh/) me for assistance.
 
 
 ## Installing Dependencies
